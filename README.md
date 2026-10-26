@@ -1,21 +1,27 @@
-# Rüya Koçak — Portfolio
+# Rüya Koçak — Personal Portfolio
 
-Build adımı olmayan statik site (HTML + CSS). Vercel'de doğrudan çalışır.
+Personal portfolio website showcasing my engineering background, featured projects, and technical experience.
 
-## Yayınlama
-1. GitHub'da yeni bir repo oluştur ve bu klasörün içeriğini push'la:
-   ```bash
-   git init
-   git add .
-   git commit -m "Portfolio"
-   git branch -M main
-   git remote add origin https://github.com/ruyakocak/portfolio.git
-   git push -u origin main
-   ```
-2. vercel.com → **Add New → Project** → repoyu seç.
-3. Framework Preset: **Other**. Build command ve output directory boş kalsın → **Deploy**.
+🔗 **Live Website:** [ruyakocak.vercel.app](https://ruyakocak.vercel.app)
 
-## Düzenleme
-- Metinler: `index.html`
-- Renkler: `index.html` içindeki `:root` değişkenleri
-- Görseller ve PDF'ler: `assets/`
+---
+
+## Overview
+
+Designed and built from scratch focusing on performance, clean aesthetics, and accessibility:
+- **Zero Dependencies:** Pure semantic HTML5, modern CSS3, and vanilla JavaScript.
+- **Fast & Responsive:** Lightweight, mobile-friendly design with fluid typography.
+- **Theme Support:** Dark and light mode toggle with local storage persistence.
+
+## Tech Stack
+
+- **Frontend:** Semantic HTML5, Modern CSS (Custom Properties, Flexbox & Grid), Vanilla JS
+- **Deployment:** Vercel
+
+---
+
+## Contact & Links
+
+- **LinkedIn:** [linkedin.com/in/ruya-kocak](https://linkedin.com/in/ruya-kocak)
+- **GitHub:** [@ruyakocak](https://github.com/ruyakocak)
+- **Email:** ruyakocak89@gmail.com
